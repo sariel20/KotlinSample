@@ -1,4 +1,4 @@
-package net.lc.kotlin.main.数据类型
+ package net.lc.kotlin.main.数据类型
 
 /**
  * Created by LiangCheng on 2017/9/23.
